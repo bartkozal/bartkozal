@@ -1,8 +1,4 @@
-<p align="center">
-  <img width="200" height="200" src="https://github.com/bartkozal/bartkozal/assets/127219/7f0f141b-6e93-4e85-a72c-2a6342091aa1">
-</p>
-
-<h1 align="center">Bartłomiej Kozal</h1>
+# Bartłomiej Kozal
 
 I have over 15 years of experience in software engineering and graphic design. I like climbing, drawing, playing piano, board games, graphic novels, and books.
 
