@@ -22,15 +22,17 @@ Between 2012 and 2016 I was a core team member and then **the CEO of a startup**
 
 I was a solopreneur for over a year and created a few indie products. One of them was promoted by Apple in the AppStore and **reached over 130.000 users**. Now they are all open-sourced. You can find them here:
 
-1. [Mood Tracker - Track daily mood with emojis](https://github.com/bartkozal/mood-tracker) - iOS/Android app for improving mental health built in React Native, Expo and TypeScript.
-2. [Echotags - Hands-free, Amsterdam audio guide](https://github.com/bartkozal/echotags) - iOS app built in Swift using UIKit, Core Location, Core Audio, RealmDB and Mapbox API, along with Rails web app to manage content.
-3. [Coypu - Text-editor-like weekly planner](https://github.com/bartkozal/coypu) - Cross-platform todo app. Built in Vue.js, Electron and PouchDB.
-4. [Games Tracker - Track your games collection](https://github.com/bartkozal/games-tracker) - Single page app built in React and powered by API built in Rails designed to track owned and played games.
-5. [Checkers for iMessage - Board game for iOS10 iMessage](https://github.com/bartkozal/checkers) - iOS app built in Swift using SpriteKit. One of the first iMessage apps on the market promoted by Apple with over 130.000 users.
-6. [Jottings - Real-time collaboration in Markdown](https://github.com/bartkozal/jottings) - Built in Rails, Vue.js, Express and ShareDB. Extensively used Operational Transformations and contenteditable API.
-7. [Game Night - Schedule board game nights](https://github.com/bartkozal/game-night) - Simple Next.js and Supabase project.
-8. [Ukulele Tabs - Translate music notes to ukulele tabs](https://ukulele-tabs.bartkozal.com/) - A small tool created in React to translate notes to ukulele tabs.
-9. [Major Scales - Practice major scales](https://major-scales.bartkozal.com/) - Small tool built in React to practice major scales.
+|  | Project | Description |
+|------|---------|-------------|
+| ![mood-tracker](https://github.com/bartkozal/bartkozal/assets/127219/a4909a11-2d1d-40f0-9d53-fae7ac3b51ce) | [Mood Tracker - Track daily mood with emojis](https://github.com/bartkozal/mood-tracker) | iOS/Android app for improving mental health built in React Native, Expo and TypeScript. |
+| ![echotags](https://github.com/bartkozal/bartkozal/assets/127219/0e2cf79c-2acc-4afd-af68-a2ce809dada3) | [Echotags - Hands-free, Amsterdam audio guide](https://github.com/bartkozal/echotags) | iOS app built in Swift using UIKit, Core Location, Core Audio, RealmDB and Mapbox API, along with Rails web app to manage content. |
+| ![coypu](https://github.com/bartkozal/bartkozal/assets/127219/0fc3f068-7ef8-4c16-916c-1c893fbce46b) | [Coypu - Text-editor-like weekly planner](https://github.com/bartkozal/coypu) | Cross-platform todo app. Built in Vue.js, Electron and PouchDB. |
+| ![games-tracker](https://github.com/bartkozal/bartkozal/assets/127219/0e4bd06a-ee2d-41e9-98bd-cdda8780b0ce) | [Games Tracker - Track your games collection](https://github.com/bartkozal/games-tracker) | Single page app built in React and powered by API built in Rails designed to track owned and played games. |
+| ![checkers-for-imessage](https://github.com/bartkozal/bartkozal/assets/127219/7f2ebc43-3494-4b26-a233-526b29f970fe) | [Checkers for iMessage - Board game for iOS10 iMessage](https://github.com/bartkozal/checkers) | iOS app built in Swift using SpriteKit. One of the first iMessage apps on the market promoted by Apple with over 130.000 users. |
+| ![jottings](https://github.com/bartkozal/bartkozal/assets/127219/b0a357bd-6f5f-4b32-bb30-df3d63b0d4a6) | [Jottings - Real-time collaboration in Markdown](https://github.com/bartkozal/jottings) | Built in Rails, Vue.js, Express and ShareDB. Extensively used Operational Transformations and contenteditable API. |
+| ![game-night](https://github.com/bartkozal/bartkozal/assets/127219/f969fe22-b0e6-4b0b-9917-acf1a41f9b28) | [Game Night - Schedule board game nights](https://github.com/bartkozal/game-night) | Simple Next.js and Supabase project. |
+| ![ukulele-tabs](https://github.com/bartkozal/bartkozal/assets/127219/cdfa7639-9d9f-4463-a740-bd776e205767) | [Ukulele Tabs - Translate music notes to ukulele tabs](https://ukulele-tabs.bartkozal.com/) | A small tool created in React to translate notes to ukulele tabs. |
+| ![major-scales](https://github.com/bartkozal/bartkozal/assets/127219/dac0ab51-cd26-4e20-b25a-a569605029ee) | [Major Scales - Practice major scales](https://major-scales.bartkozal.com/) | Small tool built in React to practice major scales. |
 
 ### Drawing, Graphic Design & Animation
 
