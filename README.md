@@ -1,8 +1,6 @@
 # Bartłomiej Kozal
 
-I have over 15 years of experience in software engineering and graphic design. I like climbing, drawing, playing piano, board games, graphic novels, and books.
-
-Read more about me at [bartkozal.com](https://bartkozal.com/).
+I have over 15 years of experience in software engineering and graphic design. I like climbing, drawing, playing piano, board games, graphic novels, and books. Read more about me at [bartkozal.com](https://bartkozal.com/).
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/bartkozal/), [Instagram](https://www.instagram.com/bartkozal/), [𝕏](https://x.com/bartkozal), and [GitHub](https://github.com/bartkozal).
 
@@ -40,15 +38,15 @@ I enjoy spending my free time pencil drawing. I know how to use all popular grap
 
 #### Pencil Drawing
 
-![cat](https://github.com/bartkozal/bartkozal/assets/127219/44621d25-b930-4650-bf1a-1630b9bcbbcb)
-![dragonfly](https://github.com/bartkozal/bartkozal/assets/127219/8d07e56d-b90a-4626-bffe-4349a989a1c2)
-![eye](https://github.com/bartkozal/bartkozal/assets/127219/24c02bc6-d03e-41da-b607-bf572fed146d)
-![hollow-knight](https://github.com/bartkozal/bartkozal/assets/127219/557b38af-5fa5-469d-8886-e1c947aae379)
-![map](https://github.com/bartkozal/bartkozal/assets/127219/4c96addb-2e91-4142-88b0-9c2ce250ed7c)
-![microscopic](https://github.com/bartkozal/bartkozal/assets/127219/4e2e2fef-a55c-4bfa-aab8-b1ac5a7070f0)
-![stand](https://github.com/bartkozal/bartkozal/assets/127219/c66a0296-c346-4cba-b323-da7af26d11ca)
-![toucan](https://github.com/bartkozal/bartkozal/assets/127219/7ed9ae5c-984c-4f4c-a621-c363d585549b)
-![waves](https://github.com/bartkozal/bartkozal/assets/127219/b7fb5ca8-228c-4378-ab47-969ea99cc8b7)
+![cat](https://github.com/bartkozal/bartkozal/assets/127219/4386eeea-1176-47bd-9487-f74fcfc4c351)
+![dragonfly](https://github.com/bartkozal/bartkozal/assets/127219/4a644d37-3549-4312-b85d-db98711ec3cf)
+![eye](https://github.com/bartkozal/bartkozal/assets/127219/c4add295-cc53-4b94-b67a-f4fc58c62325)
+![hollow-knight](https://github.com/bartkozal/bartkozal/assets/127219/a6ee8609-78a3-4d26-b28d-bdb9e64e856f)
+![map](https://github.com/bartkozal/bartkozal/assets/127219/ef2114d3-c6ca-4168-9237-26107fb9eb8d)
+![microscopic](https://github.com/bartkozal/bartkozal/assets/127219/b6a0db77-6b31-4001-b87b-ca732f16b06d)
+![stand](https://github.com/bartkozal/bartkozal/assets/127219/8d38b0a7-a1ea-427e-9a8d-8c385784d544)
+![toucan](https://github.com/bartkozal/bartkozal/assets/127219/f94a0dfd-4956-4ab3-bde0-9df1109b3c63)
+![waves](https://github.com/bartkozal/bartkozal/assets/127219/da1975bb-87fc-495f-b668-fce46b5f216e)
 
 #### Computer Graphics
 
