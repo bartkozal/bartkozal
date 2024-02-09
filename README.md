@@ -38,21 +38,22 @@ I enjoy spending my free time pencil drawing. I know how to use all popular grap
 
 #### Pencil Drawing
 
-![cat](https://github.com/bartkozal/bartkozal/assets/127219/4386eeea-1176-47bd-9487-f74fcfc4c351)
-![dragonfly](https://github.com/bartkozal/bartkozal/assets/127219/4a644d37-3549-4312-b85d-db98711ec3cf)
-![eye](https://github.com/bartkozal/bartkozal/assets/127219/c4add295-cc53-4b94-b67a-f4fc58c62325)
-![hollow-knight](https://github.com/bartkozal/bartkozal/assets/127219/a6ee8609-78a3-4d26-b28d-bdb9e64e856f)
-![map](https://github.com/bartkozal/bartkozal/assets/127219/ef2114d3-c6ca-4168-9237-26107fb9eb8d)
-![microscopic](https://github.com/bartkozal/bartkozal/assets/127219/b6a0db77-6b31-4001-b87b-ca732f16b06d)
-![stand](https://github.com/bartkozal/bartkozal/assets/127219/8d38b0a7-a1ea-427e-9a8d-8c385784d544)
-![toucan](https://github.com/bartkozal/bartkozal/assets/127219/f94a0dfd-4956-4ab3-bde0-9df1109b3c63)
-![waves](https://github.com/bartkozal/bartkozal/assets/127219/da1975bb-87fc-495f-b668-fce46b5f216e)
+![cat](https://github.com/bartkozal/bartkozal/assets/127219/829bd621-9963-479f-bcf7-1e90a65615c7)
+![map](https://github.com/bartkozal/bartkozal/assets/127219/5b0260fb-7089-464c-b7ed-2fb37773503f)
+![eye](https://github.com/bartkozal/bartkozal/assets/127219/7cd09ddd-a839-47ab-b750-b2ecd313ae86)
+![hollow-knight](https://github.com/bartkozal/bartkozal/assets/127219/b8c2d9a6-7160-4b2d-bec6-def7bb9993db)
+![toucan](https://github.com/bartkozal/bartkozal/assets/127219/8eafdbd4-fd06-47c8-bf44-5bad0c9e09f9)
+![microscopic](https://github.com/bartkozal/bartkozal/assets/127219/e14d9a03-f830-4cda-be46-673bc39ada70)
+![stand](https://github.com/bartkozal/bartkozal/assets/127219/a6d08f91-b7a9-4573-91ba-e94fe9ae6b01)
+![dragonfly](https://github.com/bartkozal/bartkozal/assets/127219/154f7ef7-7b97-4fae-81b6-bcb9a958b8ad)
+![waves](https://github.com/bartkozal/bartkozal/assets/127219/87eee1ac-ea4b-4b29-8ca2-ac6b84103c8d)
+
 
 #### Computer Graphics
 
-![cactus](https://github.com/bartkozal/bartkozal/assets/127219/1caf4950-939f-41eb-88f0-45365bb9e8ec)
-![moka](https://github.com/bartkozal/bartkozal/assets/127219/83ca2a68-4635-4c29-8cee-8b52b08d99f8)
-![whale](https://github.com/bartkozal/bartkozal/assets/127219/0a7b46ae-a7da-4927-a9b1-882a641c8c8e)
+![cactus](https://github.com/bartkozal/bartkozal/assets/127219/dd1fbcaf-ec46-425d-86ac-5e64841d9e36)
+![moka](https://github.com/bartkozal/bartkozal/assets/127219/e4a055b8-396d-4031-bacd-930f30336bd5)
+![whale](https://github.com/bartkozal/bartkozal/assets/127219/01a50b07-62f7-4f3b-ae44-fd1121a5523f)
 
 #### Animation
 
