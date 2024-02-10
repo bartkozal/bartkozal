@@ -57,24 +57,38 @@ I enjoy spending my free time pencil drawing. I know how to use all popular grap
 
 #### Animation
 
-> TODO
+![balloon](https://github.com/bartkozal/bartkozal/assets/127219/3de282d9-dee3-4586-9e5f-b89f3421009e)
+![impossible-objects](https://github.com/bartkozal/bartkozal/assets/127219/e7a70232-bac5-4ac8-9e90-7d996d83af07)
+![lamp](https://github.com/bartkozal/bartkozal/assets/127219/168c7116-9698-4162-85f4-2e644510ec3a)
+![preloader](https://github.com/bartkozal/bartkozal/assets/127219/0d8630a8-202e-400d-b9e4-020878e3f943)
+![town](https://github.com/bartkozal/bartkozal/assets/127219/bccf0d0d-beff-4e92-8d84-f0985561fef4)
+![loop](https://github.com/bartkozal/bartkozal/assets/127219/cce09fb7-0051-4e98-a9ab-67e0ca951fe5)
 
 #### UI/UX Design
 
-> TODO
+![cards](https://github.com/bartkozal/bartkozal/assets/127219/3d857f93-76bb-4ce3-9931-6bea3c45ed91)
+![dark-mode](https://github.com/bartkozal/bartkozal/assets/127219/cd816ab0-88eb-4658-a2da-b554cdfd8d72)
+![timer](https://github.com/bartkozal/bartkozal/assets/127219/8837e24b-4f0d-4dc4-a4de-53228b484559)
 
 #### Procedural Graphics
 
-> TODO
+![boids-flocking](https://github.com/bartkozal/bartkozal/assets/127219/26ec3ec4-9461-4d7d-885c-b29fb573511e)
+![collatz-conjecture](https://github.com/bartkozal/bartkozal/assets/127219/a58e785c-95bd-4634-a539-17a82f528b8f)
+![gravitational-attraction](https://github.com/bartkozal/bartkozal/assets/127219/f697385e-f4aa-4532-9546-a403951d0023)
+![path-following](https://github.com/bartkozal/bartkozal/assets/127219/b662a184-6d0e-403b-ad18-636fa0b0e155)
+![perlin-noise](https://github.com/bartkozal/bartkozal/assets/127219/909fefd0-ba92-4276-b093-98c7d925f71e)
+![waves](https://github.com/bartkozal/bartkozal/assets/127219/315c8eb0-b776-4cc8-9fe2-dc8c7c7b1f25)
 
 ### Music
 
 I like playing piano. In 2021 I started attending **jazz piano lessons and studying music theory**. I know how to use DAW software. I designed sound for my animations.
 
-> TODO
+![decks](https://github.com/bartkozal/bartkozal/assets/127219/56802433-f2de-4774-9373-f43904c3c23e)
+![waffeles](https://github.com/bartkozal/bartkozal/assets/127219/ef4f03a7-8ff7-49b6-84c3-52efb6dc0c77)
+![chicken](https://github.com/bartkozal/bartkozal/assets/127219/d3e5d3ae-f8e3-4b9c-93ea-98144a1306ff)
 
 ### Other
 
 My other hobbies besides coding, drawing, and playing jazz are: **climbing, board games, graphic novels, and books**.
 
-> TODO
+![sokoliki](https://github.com/bartkozal/bartkozal/assets/127219/170eb874-1d4a-45a3-b81f-9259ba274d8a)
