@@ -6,7 +6,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/bartkozal/), [Instagra
 
 ### Software Engineering
 
-I started in C++ then professionally focused on **Ruby**, **Swift**, and **JavaScript**. Through all the years **I worked on games, web applications, native, and mobile apps**. I have experience working for **startups, scaleups, and large companies** in technologies like: _JavaScript_, _TypeScript_, _Node.js_, _React_, _React Native_, _Electron_, _Next.js_, _Vue.js_, _AngularJS_, _Ember.js_, _GraphQL_, _Swift_, _Objective-C_, _Ruby_, _Ruby on Rails_, _PostgreSQL_, _MongoDB_, _MySQL_, _Elasticsearch_, _Redis_, _RealmDB_, _Docker_.
+I started in C++ then professionally focused on **Ruby**, **Swift**, and **TypeScript**. Through all the years **I worked on games, web applications, native, and mobile apps**. I have experience working for **startups, scaleups, and large companies** in technologies like: _TypeScript_, _JavaScript_, _Node.js_, _React_, _React Native_, _Electron_, _Next.js_, _Vue.js_, _AngularJS_, _Ember.js_, _GraphQL_, _Swift_, _Objective-C_, _Ruby_, _Ruby on Rails_, _PostgreSQL_, _MongoDB_, _MySQL_, _Elasticsearch_, _Redis_, _RealmDB_, _Docker_.
 
 I developed **over 30 open source libraries** in various technologies and contributed to projects like _Rails_ and _ycmd_. My most popular repositories are:
 1. [Float label pattern](https://github.com/bartkozal/vue-float-label) (vue-float-label)
